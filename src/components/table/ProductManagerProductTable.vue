@@ -456,8 +456,4 @@ button:focus {
 .v-pagination > li {
   margin-right: -10px;
 }
-.v-data-table > .v-data-table__wrapper > table {
-  width: auto;
-  border-spacing: 0;
-}
 </style>
