@@ -71,7 +71,7 @@
                               </svg>
                             </span>
                             <span class="text">
-                              Add Supplier
+                              Add Supplierr
                             </span>
                           </li>
                           <li class="list-item" @click="discPopOpn">
