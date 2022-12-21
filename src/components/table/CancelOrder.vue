@@ -476,7 +476,7 @@ button:focus {
   border-radius: 0;
   background-color: transparent;
   margin-bottom: 0;
-  width: 300px;
+  /* width: 300px; */
 }
 
 .search_input button {

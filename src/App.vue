@@ -16,3 +16,11 @@ export default {
   }),
 };
 </script>
+<style>
+/* .theme--light.v-icon {
+    color: #262626;
+} */
+.mdi-checkbox-marked::before{
+  color:#262626;
+}
+</style>
